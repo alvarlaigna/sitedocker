@@ -10,7 +10,7 @@
       {
           "name": "Ivan Kristianto, 10up",
           "email": "ivan.kristianto@10up.com"
-      },
+      }
   ],
   "require": {
     "johnpbloch/wordpress": "4.7.4",
